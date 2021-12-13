@@ -1,0 +1,6 @@
+pandas==1.2.2
+networkx==2.5
+streamlit==0.80.0
+matplotlib==3.3.4
+pyvis==0.1.9
+utils==1.0.1
